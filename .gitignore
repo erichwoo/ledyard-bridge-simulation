@@ -1,0 +1,7 @@
+ledyard
+.DS_Store
+core
+.*~
+*~
+*.o
+*.dSYM

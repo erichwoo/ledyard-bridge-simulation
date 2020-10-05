@@ -1,0 +1,806 @@
+Script started on 2020-10-04 19:26:22-04:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+
+Welcome to the Ledyard Bridge Construction Zone!
+------------------------------------------------
+Would you like to control the entering cars in the simulation? (y/n): y blah
+Answer must be 'y' or 'n'. Please try again.
+Would you like to control the entering cars in the simulation? (y/n): ye
+Answer must be 'y' or 'n'. Please try again.
+Would you like to control the entering cars in the simulation? (y/n): 
+Answer must be 'y' or 'n'. Please try again.
+Would you like to control the entering cars in the simulation? (y/n): y
+How many cars to add to the simulation (max 100): 1000
+Answer must be a number from 1-100. Please try again.
+How many cars to add to the simulation (max 100): 100a
+Answer must be a number from 1-100. Please try again.
+How many cars to add to the simulation (max 100): 200
+Answer must be a number from 1-100. Please try again.
+How many cars to add to the simulation (max 100): 20
+Direction for car 0? (0 = Hanover, 1 = Norwich): 0
+Direction for car 1? (0 = Hanover, 1 = Norwich): 1
+Direction for car 2? (0 = Hanover, 1 = Norwich): 0
+Direction for car 3? (0 = Hanover, 1 = Norwich): 0
+Direction for car 4? (0 = Hanover, 1 = Norwich): 1
+Direction for car 5? (0 = Hanover, 1 = Norwich): 1
+Direction for car 6? (0 = Hanover, 1 = Norwich): 1
+Direction for car 7? (0 = Hanover, 1 = Norwich): 0
+Direction for car 8? (0 = Hanover, 1 = Norwich): 1
+Direction for car 9? (0 = Hanover, 1 = Norwich): 0 1
+Direction for car 10? (0 = Hanover, 1 = Norwich): 0
+Direction for car 11? (0 = Hanover, 1 = Norwich): 0
+Direction for car 12? (0 = Hanover, 1 = Norwich): 0
+Direction for car 13? (0 = Hanover, 1 = Norwich): 0
+Direction for car 14? (0 = Hanover, 1 = Norwich): 1
+Direction for car 15? (0 = Hanover, 1 = Norwich): 0
+Direction for car 16? (0 = Hanover, 1 = Norwich): 1
+Direction for car 17? (0 = Hanover, 1 = Norwich): 1
+Direction for car 18? (0 = Hanover, 1 = Norwich): 0
+Direction for car 19? (0 = Hanover, 1 = Norwich): 0 1
+
+A simulation of 20 cars of specified directions will begin...
+=============== SIMULATION BEGINNING ===============
+A new car is waiting to go to Norwich
++++ A car got on bridge to Norwich +++
+
+====== Ledyard Bridge ======
+Flow of Traffic: 1 cars to Norwich
+Cars waiting for Hanover: 0
+Cars waiting for Norwich: 0
+
+A new car is waiting to go to Hanover
+--- A car has exited for Norwich ---
++++ A car got on bridge to Hanover +++
+A new car is waiting to go to Norwich
+A new car is waiting to go to Norwich
+A new car is waiting to go to Hanover
++++ A car got on bridge to Hanover +++
+
+====== Ledyard Bridge ======
+Flow of Traffic: 2 cars to Hanover
+Cars waiting for Hanover: 0
+Cars waiting for Norwich: 2
+
+A new car is waiting to go to Hanover
++++ A car got on bridge to Hanover +++
+--- A car has exited for Hanover ---
+A new car is waiting to go to Norwich
+
+====== Ledyard Bridge ======
+Flow of Traffic: 2 cars to Hanover
+Cars waiting for Hanover: 0
+Cars waiting for Norwich: 3
+
+--- A car has exited for Hanover ---
+A new car is waiting to go to Hanover
++++ A car got on bridge to Hanover +++
+
+====== Ledyard Bridge ======
+Flow of Traffic: 2 cars to Hanover
+Cars waiting for Hanover: 0
+Cars waiting for Norwich: 3
+
+
+====== Ledyard Bridge ======
+Flow of Traffic: 2 cars to Hanover
+Cars waiting for Hanover: 0
+Cars waiting for Norwich: 3
+
+A new car is waiting to go to Norwich
+--- A car has exited for Hanover ---
+--- A car has exited for Hanover ---
++++ A car got on bridge to Norwich +++
++++ A car got on bridge to Norwich +++
+
+====== Ledyard Bridge ======
+Flow of Traffic: 2 cars to Norwich
+Cars waiting for Hanover: 0
+Cars waiting for Norwich: 2
+
+--- A car has exited for Norwich ---
++++ A car got on bridge to Norwich +++
+
+====== Ledyard Bridge ======
+Flow of Traffic: 2 cars to Norwich
+Cars waiting for Hanover: 0
+Cars waiting for Norwich: 1
+
++++ A car got on bridge to Norwich +++
+A new car is waiting to go to Hanover
+A new car is waiting to go to Norwich
+A new car is waiting to go to Hanover
+A new car is waiting to go to Hanover
+--- A car has exited for Norwich ---
+
+====== Ledyard Bridge ======
+Flow of Traffic: 2 cars to Norwich
+Cars waiting for Hanover: 3
+Cars waiting for Norwich: 1
+
++++ A car got on bridge to Norwich +++
+
+====== Ledyard Bridge ======
+Flow of Traffic: 3 cars to Norwich
+Cars waiting for Hanover: 3
+Cars waiting for Norwich: 0
+
+A new car is waiting to go to Hanover
+A new car is waiting to go to Hanover
+--- A car has exited for Norwich ---
+A new car is waiting to go to Norwich
++++ A car got on bridge to Norwich +++
+
+====== Ledyard Bridge ======
+Flow of Traffic: 3 cars to Norwich
+Cars waiting for Hanover: 5
+Cars waiting for Norwich: 0
+
+A new car is waiting to go to Norwich
+--- A car has exited for Norwich ---
+
+====== Ledyard Bridge ======
+Flow of Traffic: 2 cars to Norwich
+Cars waiting for Hanover: 5
+Cars waiting for Norwich: 1
+
+--- A car has exited for Norwich ---
++++ A car got on bridge to Norwich +++
+A new car is waiting to go to Norwich
++++ A car got on bridge to Norwich +++
+
+====== Ledyard Bridge ======
+Flow of Traffic: 3 cars to Norwich
+Cars waiting for Hanover: 5
+Cars waiting for Norwich: 0
+
+
+====== Ledyard Bridge ======
+Flow of Traffic: 3 cars to Norwich
+Cars waiting for Hanover: 5
+Cars waiting for Norwich: 0
+
+--- A car has exited for Norwich ---
+--- A car has exited for Norwich ---
+A new car is waiting to go to Norwich
++++ A car got on bridge to Norwich +++
+
+====== Ledyard Bridge ======
+Flow of Traffic: 2 cars to Norwich
+Cars waiting for Hanover: 5
+Cars waiting for Norwich: 0
+
+--- A car has exited for Norwich ---
+A new car is waiting to go to Hanover
+--- A car has exited for Norwich ---
++++ A car got on bridge to Hanover +++
+
+====== Ledyard Bridge ======
+Flow of Traffic: 1 cars to Hanover
+Cars waiting for Hanover: 5
+Cars waiting for Norwich: 0
+
+--- A car has exited for Hanover ---
++++ A car got on bridge to Hanover +++
++++ A car got on bridge to Hanover +++
++++ A car got on bridge to Hanover +++
+
+====== Ledyard Bridge ======
+Flow of Traffic: 3 cars to Hanover
+Cars waiting for Hanover: 2
+Cars waiting for Norwich: 0
+
+--- A car has exited for Hanover ---
++++ A car got on bridge to Hanover +++
+
+====== Ledyard Bridge ======
+Flow of Traffic: 3 cars to Hanover
+Cars waiting for Hanover: 1
+Cars waiting for Norwich: 0
+
+
+====== Ledyard Bridge ======
+Flow of Traffic: 3 cars to Hanover
+Cars waiting for Hanover: 1
+Cars waiting for Norwich: 0
+
+--- A car has exited for Hanover ---
+
+====== Ledyard Bridge ======
+Flow of Traffic: 2 cars to Hanover
+Cars waiting for Hanover: 1
+Cars waiting for Norwich: 0
+
+--- A car has exited for Hanover ---
++++ A car got on bridge to Hanover +++
+
+====== Ledyard Bridge ======
+Flow of Traffic: 2 cars to Hanover
+Cars waiting for Hanover: 0
+Cars waiting for Norwich: 0
+
+--- A car has exited for Hanover ---
+--- A car has exited for Hanover ---
+
+All cars have safely exited the bridge
+============= SIMULATION COMPLETED ==============
+
+Type 'y' to play again, any other key to exit: y
+
+Welcome to the Ledyard Bridge Construction Zone!
+------------------------------------------------
+Would you like to control the entering cars in the simulation? (y/n): ne
+Answer must be 'y' or 'n'. Please try again.
+Would you like to control the entering cars in the simulation? (y/n): n
+
+Default random simulation of 20 cars will begin...
+=============== SIMULATION BEGINNING ===============
+A new car is waiting to go to Hanover
++++ A car got on bridge to Hanover +++
+
+====== Ledyard Bridge ======
+Flow of Traffic: 1 cars to Hanover
+Cars waiting for Hanover: 0
+Cars waiting for Norwich: 0
+
+A new car is waiting to go to Hanover
++++ A car got on bridge to Hanover +++
+A new car is waiting to go to Norwich
+A new car is waiting to go to Hanover
++++ A car got on bridge to Hanover +++
+A new car is waiting to go to Hanover
+A new car is waiting to go to Norwich
+A new car is waiting to go to Hanover
+A new car is waiting to go to Hanover
+A new car is waiting to go to Norwich
+--- A car has exited for Hanover ---
++++ A car got on bridge to Hanover +++
+A new car is waiting to go to Norwich
+
+====== Ledyard Bridge ======
+Flow of Traffic: 3 cars to Hanover
+Cars waiting for Hanover: 2
+Cars waiting for Norwich: 4
+
+--- A car has exited for Hanover ---
++++ A car got on bridge to Hanover +++
+
+====== Ledyard Bridge ======
+Flow of Traffic: 3 cars to Hanover
+Cars waiting for Hanover: 1
+Cars waiting for Norwich: 4
+
+
+====== Ledyard Bridge ======
+Flow of Traffic: 3 cars to Hanover
+Cars waiting for Hanover: 1
+Cars waiting for Norwich: 4
+
+--- A car has exited for Hanover ---
++++ A car got on bridge to Hanover +++
+
+====== Ledyard Bridge ======
+Flow of Traffic: 3 cars to Hanover
+Cars waiting for Hanover: 0
+Cars waiting for Norwich: 4
+
+--- A car has exited for Hanover ---
+A new car is waiting to go to Hanover
++++ A car got on bridge to Hanover +++
+A new car is waiting to go to Hanover
+A new car is waiting to go to Hanover
+--- A car has exited for Hanover ---
++++ A car got on bridge to Hanover +++
+
+====== Ledyard Bridge ======
+Flow of Traffic: 3 cars to Hanover
+Cars waiting for Hanover: 1
+Cars waiting for Norwich: 4
+
+
+====== Ledyard Bridge ======
+Flow of Traffic: 3 cars to Hanover
+Cars waiting for Hanover: 1
+Cars waiting for Norwich: 4
+
+--- A car has exited for Hanover ---
++++ A car got on bridge to Hanover +++
+
+====== Ledyard Bridge ======
+Flow of Traffic: 3 cars to Hanover
+Cars waiting for Hanover: 0
+Cars waiting for Norwich: 4
+
+--- A car has exited for Hanover ---
+--- A car has exited for Hanover ---
+
+====== Ledyard Bridge ======
+Flow of Traffic: 1 cars to Hanover
+Cars waiting for Hanover: 0
+Cars waiting for Norwich: 4
+
+--- A car has exited for Hanover ---
++++ A car got on bridge to Norwich +++
++++ A car got on bridge to Norwich +++
+
+====== Ledyard Bridge ======
+Flow of Traffic: 2 cars to Norwich
+Cars waiting for Hanover: 0
+Cars waiting for Norwich: 2
+
+--- A car has exited for Norwich ---
++++ A car got on bridge to Norwich +++
++++ A car got on bridge to Norwich +++
+A new car is waiting to go to Norwich
+
+====== Ledyard Bridge ======
+Flow of Traffic: 3 cars to Norwich
+Cars waiting for Hanover: 0
+Cars waiting for Norwich: 1
+
+--- A car has exited for Norwich ---
+
+====== Ledyard Bridge ======
+Flow of Traffic: 2 cars to Norwich
+Cars waiting for Hanover: 0
+Cars waiting for Norwich: 1
+
+--- A car has exited for Norwich ---
++++ A car got on bridge to Norwich +++
+A new car is waiting to go to Norwich
++++ A car got on bridge to Norwich +++
+A new car is waiting to go to Norwich
+A new car is waiting to go to Hanover
+A new car is waiting to go to Norwich
+
+====== Ledyard Bridge ======
+Flow of Traffic: 3 cars to Norwich
+Cars waiting for Hanover: 1
+Cars waiting for Norwich: 2
+
+--- A car has exited for Norwich ---
++++ A car got on bridge to Norwich +++
+
+====== Ledyard Bridge ======
+Flow of Traffic: 3 cars to Norwich
+Cars waiting for Hanover: 1
+Cars waiting for Norwich: 1
+
+--- A car has exited for Norwich ---
++++ A car got on bridge to Norwich +++
+A new car is waiting to go to Norwich
+A new car is waiting to go to Hanover
+
+====== Ledyard Bridge ======
+Flow of Traffic: 3 cars to Norwich
+Cars waiting for Hanover: 2
+Cars waiting for Norwich: 1
+
+
+====== Ledyard Bridge ======
+Flow of Traffic: 3 cars to Norwich
+Cars waiting for Hanover: 2
+Cars waiting for Norwich: 1
+
+--- A car has exited for Norwich ---
++++ A car got on bridge to Norwich +++
+
+====== Ledyard Bridge ======
+Flow of Traffic: 3 cars to Norwich
+Cars waiting for Hanover: 2
+Cars waiting for Norwich: 0
+
+
+====== Ledyard Bridge ======
+Flow of Traffic: 3 cars to Norwich
+Cars waiting for Hanover: 2
+Cars waiting for Norwich: 0
+
+--- A car has exited for Norwich ---
+--- A car has exited for Norwich ---
+--- A car has exited for Norwich ---
++++ A car got on bridge to Hanover +++
+
+====== Ledyard Bridge ======
+Flow of Traffic: 1 cars to Hanover
+Cars waiting for Hanover: 1
+Cars waiting for Norwich: 0
+
+--- A car has exited for Hanover ---
++++ A car got on bridge to Hanover +++
+
+====== Ledyard Bridge ======
+Flow of Traffic: 1 cars to Hanover
+Cars waiting for Hanover: 0
+Cars waiting for Norwich: 0
+
+--- A car has exited for Hanover ---
+
+All cars have safely exited the bridge
+============= SIMULATION COMPLETED ==============
+
+Type 'y' to play again, any other key to exit: y
+
+Welcome to the Ledyard Bridge Construction Zone!
+------------------------------------------------
+Would you like to control the entering cars in the simulation? (y/n): n
+
+Default random simulation of 20 cars will begin...
+=============== SIMULATION BEGINNING ===============
+A new car is waiting to go to Norwich
++++ A car got on bridge to Norwich +++
+A new car is waiting to go to Norwich
++++ A car got on bridge to Norwich +++
+A new car is waiting to go to Norwich
++++ A car got on bridge to Norwich +++
+A new car is waiting to go to Hanover
+A new car is waiting to go to Hanover
+A new car is waiting to go to Hanover
+
+====== Ledyard Bridge ======
+Flow of Traffic: 3 cars to Norwich
+Cars waiting for Hanover: 3
+Cars waiting for Norwich: 0
+
+--- A car has exited for Norwich ---
+
+====== Ledyard Bridge ======
+Flow of Traffic: 2 cars to Norwich
+Cars waiting for Hanover: 3
+Cars waiting for Norwich: 0
+
+--- A car has exited for Norwich ---
+A new car is waiting to go to Hanover
+A new car is waiting to go to Norwich
++++ A car got on bridge to Norwich +++
+
+====== Ledyard Bridge ======
+Flow of Traffic: 2 cars to Norwich
+Cars waiting for Hanover: 4
+Cars waiting for Norwich: 0
+
+--- A car has exited for Norwich ---
+A new car is waiting to go to Hanover
+
+====== Ledyard Bridge ======
+Flow of Traffic: 1 cars to Norwich
+Cars waiting for Hanover: 5
+Cars waiting for Norwich: 0
+
+--- A car has exited for Norwich ---
++++ A car got on bridge to Hanover +++
++++ A car got on bridge to Hanover +++
+
+====== Ledyard Bridge ======
+Flow of Traffic: 2 cars to Hanover
+Cars waiting for Hanover: 3
+Cars waiting for Norwich: 0
+
++++ A car got on bridge to Hanover +++
+
+====== Ledyard Bridge ======
+Flow of Traffic: 3 cars to Hanover
+Cars waiting for Hanover: 2
+Cars waiting for Norwich: 0
+
+--- A car has exited for Hanover ---
++++ A car got on bridge to Hanover +++
+A new car is waiting to go to Norwich
+A new car is waiting to go to Norwich
+
+====== Ledyard Bridge ======
+Flow of Traffic: 3 cars to Hanover
+Cars waiting for Hanover: 1
+Cars waiting for Norwich: 2
+
+--- A car has exited for Hanover ---
++++ A car got on bridge to Hanover +++
+A new car is waiting to go to Norwich
+A new car is waiting to go to Norwich
+
+====== Ledyard Bridge ======
+Flow of Traffic: 3 cars to Hanover
+Cars waiting for Hanover: 0
+Cars waiting for Norwich: 4
+
+
+====== Ledyard Bridge ======
+Flow of Traffic: 3 cars to Hanover
+Cars waiting for Hanover: 0
+Cars waiting for Norwich: 4
+
+--- A car has exited for Hanover ---
+A new car is waiting to go to Norwich
+--- A car has exited for Hanover ---
+--- A car has exited for Hanover ---
++++ A car got on bridge to Norwich +++
++++ A car got on bridge to Norwich +++
++++ A car got on bridge to Norwich +++
+
+====== Ledyard Bridge ======
+Flow of Traffic: 3 cars to Norwich
+Cars waiting for Hanover: 0
+Cars waiting for Norwich: 2
+
+A new car is waiting to go to Norwich
+A new car is waiting to go to Hanover
+A new car is waiting to go to Hanover
+
+====== Ledyard Bridge ======
+Flow of Traffic: 3 cars to Norwich
+Cars waiting for Hanover: 2
+Cars waiting for Norwich: 3
+
+--- A car has exited for Norwich ---
++++ A car got on bridge to Norwich +++
+A new car is waiting to go to Hanover
+A new car is waiting to go to Hanover
+
+====== Ledyard Bridge ======
+Flow of Traffic: 3 cars to Norwich
+Cars waiting for Hanover: 4
+Cars waiting for Norwich: 2
+
+--- A car has exited for Norwich ---
++++ A car got on bridge to Norwich +++
+
+====== Ledyard Bridge ======
+Flow of Traffic: 3 cars to Norwich
+Cars waiting for Hanover: 4
+Cars waiting for Norwich: 1
+
+A new car is waiting to go to Norwich
+--- A car has exited for Norwich ---
++++ A car got on bridge to Norwich +++
+
+====== Ledyard Bridge ======
+Flow of Traffic: 3 cars to Norwich
+Cars waiting for Hanover: 4
+Cars waiting for Norwich: 1
+
+
+====== Ledyard Bridge ======
+Flow of Traffic: 3 cars to Norwich
+Cars waiting for Hanover: 4
+Cars waiting for Norwich: 1
+
+--- A car has exited for Norwich ---
++++ A car got on bridge to Norwich +++
+--- A car has exited for Norwich ---
+--- A car has exited for Norwich ---
+
+====== Ledyard Bridge ======
+Flow of Traffic: 1 cars to Norwich
+Cars waiting for Hanover: 4
+Cars waiting for Norwich: 0
+
+--- A car has exited for Norwich ---
++++ A car got on bridge to Hanover +++
++++ A car got on bridge to Hanover +++
+
+====== Ledyard Bridge ======
+Flow of Traffic: 2 cars to Hanover
+Cars waiting for Hanover: 2
+Cars waiting for Norwich: 0
+
+--- A car has exited for Hanover ---
++++ A car got on bridge to Hanover +++
++++ A car got on bridge to Hanover +++
+
+====== Ledyard Bridge ======
+Flow of Traffic: 3 cars to Hanover
+Cars waiting for Hanover: 0
+Cars waiting for Norwich: 0
+
+
+====== Ledyard Bridge ======
+Flow of Traffic: 3 cars to Hanover
+Cars waiting for Hanover: 0
+Cars waiting for Norwich: 0
+
+--- A car has exited for Hanover ---
+--- A car has exited for Hanover ---
+
+====== Ledyard Bridge ======
+Flow of Traffic: 1 cars to Hanover
+Cars waiting for Hanover: 0
+Cars waiting for Norwich: 0
+
+--- A car has exited for Hanover ---
+
+All cars have safely exited the bridge
+============= SIMULATION COMPLETED ==============
+
+Type 'y' to play again, any other key to exit: y
+
+Welcome to the Ledyard Bridge Construction Zone!
+------------------------------------------------
+Would you like to control the entering cars in the simulation? (y/n): n
+
+Default random simulation of 20 cars will begin...
+=============== SIMULATION BEGINNING ===============
+A new car is waiting to go to Norwich
++++ A car got on bridge to Norwich +++
+A new car is waiting to go to Hanover
+
+====== Ledyard Bridge ======
+Flow of Traffic: 1 cars to Norwich
+Cars waiting for Hanover: 1
+Cars waiting for Norwich: 0
+
+A new car is waiting to go to Hanover
+A new car is waiting to go to Hanover
+A new car is waiting to go to Hanover
+A new car is waiting to go to Hanover
+--- A car has exited for Norwich ---
++++ A car got on bridge to Hanover +++
+
+====== Ledyard Bridge ======
+Flow of Traffic: 1 cars to Hanover
+Cars waiting for Hanover: 4
+Cars waiting for Norwich: 0
+
++++ A car got on bridge to Hanover +++
+
+====== Ledyard Bridge ======
+Flow of Traffic: 2 cars to Hanover
+Cars waiting for Hanover: 3
+Cars waiting for Norwich: 0
+
+--- A car has exited for Hanover ---
++++ A car got on bridge to Hanover +++
++++ A car got on bridge to Hanover +++
+A new car is waiting to go to Norwich
+A new car is waiting to go to Hanover
+
+====== Ledyard Bridge ======
+Flow of Traffic: 3 cars to Hanover
+Cars waiting for Hanover: 2
+Cars waiting for Norwich: 1
+
+A new car is waiting to go to Norwich
+A new car is waiting to go to Norwich
+A new car is waiting to go to Hanover
+--- A car has exited for Hanover ---
++++ A car got on bridge to Hanover +++
+
+====== Ledyard Bridge ======
+Flow of Traffic: 3 cars to Hanover
+Cars waiting for Hanover: 2
+Cars waiting for Norwich: 3
+
+
+====== Ledyard Bridge ======
+Flow of Traffic: 3 cars to Hanover
+Cars waiting for Hanover: 2
+Cars waiting for Norwich: 3
+
+--- A car has exited for Hanover ---
++++ A car got on bridge to Hanover +++
+
+====== Ledyard Bridge ======
+Flow of Traffic: 3 cars to Hanover
+Cars waiting for Hanover: 1
+Cars waiting for Norwich: 3
+
+--- A car has exited for Hanover ---
++++ A car got on bridge to Hanover +++
+
+====== Ledyard Bridge ======
+Flow of Traffic: 3 cars to Hanover
+Cars waiting for Hanover: 0
+Cars waiting for Norwich: 3
+
+A new car is waiting to go to Hanover
+A new car is waiting to go to Hanover
+--- A car has exited for Hanover ---
+--- A car has exited for Hanover ---
++++ A car got on bridge to Hanover +++
+
+====== Ledyard Bridge ======
+Flow of Traffic: 2 cars to Hanover
+Cars waiting for Hanover: 1
+Cars waiting for Norwich: 3
+
+--- A car has exited for Hanover ---
++++ A car got on bridge to Hanover +++
+
+====== Ledyard Bridge ======
+Flow of Traffic: 2 cars to Hanover
+Cars waiting for Hanover: 0
+Cars waiting for Norwich: 3
+
+A new car is waiting to go to Hanover
++++ A car got on bridge to Hanover +++
+
+====== Ledyard Bridge ======
+Flow of Traffic: 3 cars to Hanover
+Cars waiting for Hanover: 0
+Cars waiting for Norwich: 3
+
+--- A car has exited for Hanover ---
+A new car is waiting to go to Hanover
++++ A car got on bridge to Hanover +++
+A new car is waiting to go to Hanover
+--- A car has exited for Hanover ---
++++ A car got on bridge to Hanover +++
+--- A car has exited for Hanover ---
+A new car is waiting to go to Norwich
+
+====== Ledyard Bridge ======
+Flow of Traffic: 2 cars to Hanover
+Cars waiting for Hanover: 0
+Cars waiting for Norwich: 4
+
+--- A car has exited for Hanover ---
+A new car is waiting to go to Norwich
+A new car is waiting to go to Norwich
+A new car is waiting to go to Hanover
++++ A car got on bridge to Hanover +++
+
+====== Ledyard Bridge ======
+Flow of Traffic: 2 cars to Hanover
+Cars waiting for Hanover: 0
+Cars waiting for Norwich: 6
+
+--- A car has exited for Hanover ---
+
+====== Ledyard Bridge ======
+Flow of Traffic: 1 cars to Hanover
+Cars waiting for Hanover: 0
+Cars waiting for Norwich: 6
+
+--- A car has exited for Hanover ---
++++ A car got on bridge to Norwich +++
+
+====== Ledyard Bridge ======
+Flow of Traffic: 1 cars to Norwich
+Cars waiting for Hanover: 0
+Cars waiting for Norwich: 5
+
++++ A car got on bridge to Norwich +++
++++ A car got on bridge to Norwich +++
+
+====== Ledyard Bridge ======
+Flow of Traffic: 3 cars to Norwich
+Cars waiting for Hanover: 0
+Cars waiting for Norwich: 3
+
+--- A car has exited for Norwich ---
++++ A car got on bridge to Norwich +++
+
+====== Ledyard Bridge ======
+Flow of Traffic: 3 cars to Norwich
+Cars waiting for Hanover: 0
+Cars waiting for Norwich: 2
+
+--- A car has exited for Norwich ---
++++ A car got on bridge to Norwich +++
+
+====== Ledyard Bridge ======
+Flow of Traffic: 3 cars to Norwich
+Cars waiting for Hanover: 0
+Cars waiting for Norwich: 1
+
+--- A car has exited for Norwich ---
++++ A car got on bridge to Norwich +++
+
+====== Ledyard Bridge ======
+Flow of Traffic: 3 cars to Norwich
+Cars waiting for Hanover: 0
+Cars waiting for Norwich: 0
+
+--- A car has exited for Norwich ---
+--- A car has exited for Norwich ---
+
+====== Ledyard Bridge ======
+Flow of Traffic: 1 cars to Norwich
+Cars waiting for Hanover: 0
+Cars waiting for Norwich: 0
+
+--- A car has exited for Norwich ---
+
+All cars have safely exited the bridge
+============= SIMULATION COMPLETED ==============
+
+Type 'y' to play again, any other key to exit: n
+
+Script done on 2020-10-04 19:29:24-04:00 [COMMAND_EXIT_CODE="0"]
