@@ -14,7 +14,7 @@ To run the program:
 ./ledyard
 ```
 
-To clean up, simply run 1make clean`.
+To clean up, simply run `make clean`.
 
 ### Notes
 
